@@ -1,0 +1,49 @@
+Frequently Asked Questions (FAQs) - Cab Allotment
+------------------------------------------------
+1. How do I request a cab?
+
+   To request a cab, you can use a cab booking software 
+   Open the software, enter your pickup and drop-off locations, select the type of cab, and submit your request.
+
+
+
+2. How long does it take for a cab to be allotted?
+
+   The time taken for cab allotment depends on various factors such as cab availability, location, and demand.
+   In general, cabs are usually allotted within a few minutes, but during peak hours or high demand, it may take longer.
+
+
+
+3. Can I specify a preferred type of cab during the allotment?
+
+   Yes, most cab booking services allow you to specify your preferred type of cab during the booking process.
+   You can choose from categories such as bike, auto, mini, sedan, or SUV, depending on the availability.
+
+
+
+4. Can I make changes to my cab allotment after it has been confirmed?
+  
+   No,the cab allotment system won't allow you to make any changes to my cab allotment after it has been confirmed
+
+
+
+5. What should I do if I need to cancel my cab allotment?
+  
+   If you need to cancel your cab allotment, you can opt the cancel booking option once the cab is alloted.
+   However, check the service's cancellation policy, as there might be cancellation fees based on the time of cancellation.
+
+
+
+6. How can I provide feedback about my cab allotment experience?
+  
+   this cab booking system provide an option to rate and provide feedback about your cab allotment experience.
+   
+
+
+7. Is it possible to schedule a cab allotment in advance?
+
+   Yes, this cab booking system wil allow you to schedule a cab allotment in advance.
+   You can specify the date and time for your ride during the booking process, ensuring the cab is allotted accordingly.
+
+
+
